@@ -1,0 +1,51 @@
+
+#container {
+    width: 970px;
+    background-color: rgb(245, 255, 240);
+    margin: 0 auto;
+    padding: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #aa8080;
+}
+
+table {
+    margin: auto;
+    border: 3px solid #8e069e;
+    width: 700px;
+    font-size: 25px;
+    line-height: 1.5;
+    color: #aa8080;
+    padding: 0;
+}
+
+
+#forms1 {
+    font-size: 20px;
+    border-top: 2px solid gray;
+    margin-top: 30px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#forms2 {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    margin-top: 35px;
+    margin-left: 400px;
+    width: 180px;
+    height: 30px;
+    font-size: 22px;
+    border-style: none;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+
+}
